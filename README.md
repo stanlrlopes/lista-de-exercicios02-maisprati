@@ -83,8 +83,5 @@ Os exercícios foram desenvolvidos para serem executados **via terminal no VS Co
 
 ## 📬 Contato
 
-Caso tenha dúvidas ou sugestões, fique à vontade para abrir uma issue ou contribuir com este repositório!
+Caso tenha dúvidas ou sugestões, fique à vontade para contribuir com este repositório!
 
----
-
-**🧠 Bons estudos e prática!**
