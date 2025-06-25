@@ -37,9 +37,9 @@ Os exercícios foram desenvolvidos para serem executados **via terminal no VS Co
 
 | Nº | Descrição                    | Arquivo                           |
 | -- | ---------------------------- | --------------------------------- |
-| 1  | Validação de data            | `exercicio01-validacao-data.js`   |
-| 2  | Jogo de adivinhação          | `exercicio02-jogo-adivinhacao.js` |
-| 3  | Palavras únicas em uma frase | `exercicio03-palavras-unicas.js`  |
+| 1  | Validação de data            | `exercicio01.js`   |
+| 2  | Jogo de adivinhação          | `exercicio02.js` |
+| 3  | Palavras únicas em uma frase | `exercicio03.js`  |
 
 ---
 
@@ -47,9 +47,9 @@ Os exercícios foram desenvolvidos para serem executados **via terminal no VS Co
 
 | Nº | Descrição             | Arquivo                             |
 | -- | --------------------- | ----------------------------------- |
-| 4  | Fatorial recursivo    | `exercicio04-fatorial-recursivo.js` |
-| 5  | Função debounce       | `exercicio05-debounce.js`           |
-| 6  | Memoization com cache | `exercicio06-memoization.js`        |
+| 4  | Fatorial recursivo    | `exercicio04.js` |
+| 5  | Função debounce       | `exercicio05.js`           |
+| 6  | Memoization com cache | `exercicio06.js`        |
 
 ---
 
@@ -57,9 +57,9 @@ Os exercícios foram desenvolvidos para serem executados **via terminal no VS Co
 
 | Nº | Descrição                                      | Arquivo                               |
 | -- | ---------------------------------------------- | ------------------------------------- |
-| 7  | Mapeamento e ordenação por preço               | `exercicio07-mapeamento-ordenacao.js` |
-| 8  | Agrupamento de vendas por cliente              | `exercicio08-agrupamento-clientes.js` |
-| 9  | Conversão entre pares e objetos (e vice-versa) | `exercicio09-conversao-formatos.js`   |
+| 7  | Mapeamento e ordenação por preço               | `exercicio07.js` |
+| 8  | Agrupamento de vendas por cliente              | `exercicio08.js` |
+| 9  | Conversão entre pares e objetos (e vice-versa) | `exercicio09.js`   |
 
 ---
 
